@@ -4,7 +4,7 @@
 
 ## 다운로드
 
-**[SketchConverter.apk (v1.0)](https://github.com/chanmin0723/sketch/releases/download/v1.0/SketchConverter.apk)** — Android 10 이상
+**[SketchConverter.apk (v1.0)](https://github.com/chanmin0723/sketch/raw/main/release/SketchConverter.apk)** — Android 10 이상
 
 1. 휴대폰 브라우저에서 위 링크를 열어 APK를 받습니다.
 2. 받은 파일을 누르고, "출처를 알 수 없는 앱" 안내가 나오면 허용합니다.
