@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 108dp adaptive-icon foreground: a pencil drawing a stroke -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- hand-drawn stroke under the pencil -->
+    <path
+        android:pathData="M28,78 C36,72 42,82 50,76 C56,71 60,79 66,75"
+        android:strokeColor="#2B2B2B"
+        android:strokeWidth="2.6"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="-45">
+        <!-- eraser -->
+        <path android:fillColor="#D9826B" android:pathData="M28,48 L34,48 L34,60 L28,60 Q26,60 26,58 L26,50 Q26,48 28,48 Z" />
+        <!-- ferrule -->
+        <path android:fillColor="#9A9A9A" android:pathData="M34,48 L39,48 L39,60 L34,60 Z" />
+        <!-- body -->
+        <path android:fillColor="#2B2B2B" android:pathData="M39,48 L72,48 L72,60 L39,60 Z" />
+        <path android:fillColor="#4A4A4A" android:pathData="M39,48 L72,48 L72,52 L39,52 Z" />
+        <!-- sharpened wood -->
+        <path android:fillColor="#E8C79A" android:pathData="M72,48 L82,54 L72,60 Z" />
+        <!-- graphite tip -->
+        <path android:fillColor="#2B2B2B" android:pathData="M79,52.2 L84,54 L79,55.8 Z" />
+    </group>
+</vector>
